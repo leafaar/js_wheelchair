@@ -1,5 +1,5 @@
 # Info
-It's a lua script for FiveM, you could spawn a wheelchair, and you can sit or pick up.
+It's a lua script for FiveM, you can spawn a wheelchair, and you can sit or pick up.
 
 * Commands: 
 /addcr (to spawn the wheelchair)
